@@ -1,0 +1,23 @@
+{
+  "name": "pupcatch",
+  "version": "1.0.0",
+  "description": "pupcatch video from Coursera",
+  "main": "linkcatch.js",
+  "dependencies": {
+    "puppeteer": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visnz/pupcatch.git"
+  },
+  "author": "visnz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visnz/pupcatch/issues"
+  },
+  "homepage": "https://github.com/visnz/pupcatch#readme"
+}
